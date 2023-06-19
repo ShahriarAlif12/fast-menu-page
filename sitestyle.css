@@ -1,0 +1,49 @@
+
+
+.divmenu menu {
+    display:flex;
+    justify-content: space-between;
+    background-color: lightskyblue;
+    padding: 20px;
+
+}
+
+.divmenu menu a {
+    text-decoration: none;
+    background-color: rgb(101, 180, 187);
+    padding: 5px;
+    border-radius: 3px 10px 0 10px;
+    color: azure;
+}
+
+.divmenu menu a:hover {
+    box-shadow: 5px 3px 3px lightcyan;
+
+}
+
+
+.divmenu menu img {
+
+    width:40px;
+    height: auto;
+}
+
+
+/*................ indix.home............. */
+
+.img-text div h1 {
+    color: rgb(174, 223, 242);
+}
+
+.img-text div img {
+    width: 480px;
+}
+
+.img-text {
+    display: flex;
+    
+}
+
+.img-text div h4 {
+    color: rgb(135, 141, 144);
+}
